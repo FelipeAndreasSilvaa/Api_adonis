@@ -1,5 +1,4 @@
-# Criaçao de api com adonisJS
-Criacao de api com adonisJS para integrar com uma projeto front em angular
+# Criacao de api com adonisJS para integrar com uma projeto front em angular
 
 # Criado um banco de dados SqlLite para armazenamento de momentos e comentarios
 # Feito inserção, atualização, deletar, alterar de momentos
