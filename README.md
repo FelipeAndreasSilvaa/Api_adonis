@@ -1,13 +1,13 @@
 # Criacao de api com adonisJS para integrar com o projeto Moments.
 Comando para rodar a aplicação:
-# Node ace --serve watch
+- Node ace --serve watch
 Comando para auxiliar no projeto:
-# node ace
+- node ace
 
 # Criado um banco de dados SqlLite para armazenamento de momentos e comentarios
 Dependencias para instlar o banco:
-# npm i @adonisjs/lucid
-# node ace configure @adonisjs/lucid
+- npm i @adonisjs/lucid
+- node ace configure @adonisjs/lucid
 
 
 # Criado o CRUD da parte de momentos
